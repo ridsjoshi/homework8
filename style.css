@@ -1,0 +1,51 @@
+.jsonJoke{
+    text-align:center;
+    display: block;
+    background-color: #f5f2e0;
+    padding: 30px 20px;
+    border-radius: 0px;
+    border-color: rgb(60, 11, 70);
+    border-style:dotted;
+    margin-top: 2%;
+    margin-right: 1%;
+    margin-bottom: 2%;
+    margin-left: 1%;
+}
+
+.coolJoke{
+    text-align:center;
+    display: block;
+    background-color: #e0f5f4;
+    padding: 30px 20px;
+    border-radius: 0px;
+    border-color: rgb(60, 11, 70);
+    border-style:dotted;
+    margin-top: 2%;
+    margin-right: 1%;
+    margin-bottom: 2%;
+    margin-left: 1%;
+}
+
+.questions{
+    text-align:center;
+    display: block;
+    background-color: #f5f2e0;
+    padding: 30px 20px;
+    border-radius: 0px;
+    border-color: rgb(60, 11, 70);
+    border-style:dotted;
+    margin-top: 2%;
+    margin-right: 1%;
+    margin-bottom: 2%;
+    margin-left: 1%;
+}
+
+#part1{
+    font-weight: bold;
+    font-family: "American Typewriter";
+    font-size: 50px;
+}
+#part2{
+    font-family: "American Typewriter";
+    font-size: 50px;
+}
